@@ -1,4 +1,4 @@
-Disclaimer: I don't have much experience on Java. I mostly worked with selenium with C# and Javascript/Typescript with Playwright.
+**Disclaimer: I don't have much experience on Java. I mostly worked with selenium with C# and Javascript/Typescript with Playwright.**
 
 
 1. Please download this project and open it in eclipse, it will automatically downloads the dependencies.
